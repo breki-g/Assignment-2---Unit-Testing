@@ -1,3 +1,6 @@
+# This is a uni project I did
+Find original here: https://github.com/arnif/assignment-2-testing
+
 # Assignment 2 - Unit Testing & Library Migration
 
 Learn unit testing best practices including mocking, async testing, and error handling. Then practice safe library migration using your tests as a safety net.
