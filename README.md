@@ -1,4 +1,4 @@
-# This is a uni project I did
+# This is a university project I did for the course VIHU
 Find original here: https://github.com/arnif/assignment-2-testing
 
 # Assignment 2 - Unit Testing & Library Migration
